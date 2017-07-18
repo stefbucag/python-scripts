@@ -18,3 +18,5 @@ A web application which allows the user to enter a date and time of an event, ev
 ### Budget Tracker
 
 A web application that keeps track of a household’s budget. The user can add expenses and income out how much they are saving or losing over a period of time. 
+
+Scripts are stored in https://gitlab.com/steffbucag/python-scripts
